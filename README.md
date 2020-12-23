@@ -44,13 +44,13 @@ The code and documentation can be found here : [github](https://github.com/Ateli
 
 <img src="Anaelle_et_Pierre/gif.gif" width="480" height="600" />
 
-[cahier de recherches](https://github.com/AtelierNum/projet_motifs_d_expression_2020/Anaelle_et_Pierre/cahier_de_recherches.pdf)
+[cahier de recherches](https://github.com/AtelierNum/projet_motifs_d_expression_2020/blob/main/Anaelle_et_Pierre/cahier_de_recherches.pdf)
 
 
 ## Romane Jubert et Neïla Melizi
 
 <img src="Romane_et_Neila/gif.gif" width="480" height="600" />
 
-[cahier de recherches](https://github.com/AtelierNum/projet_motifs_d_expression_2020/Romane_et_Neila/cahier_de_recherches.pdf)
+[cahier de recherches](https://github.com/AtelierNum/projet_motifs_d_expression_2020/blob/main/Romane_et_Neila/cahier_de_recherches.pdf)
 
 
