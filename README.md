@@ -1,20 +1,5 @@
 # projet_motifs_d_expression_2020
 
-
-
-This repo holds the projects made by graphic design students @lecolededesign using [p5js](https://p5js.org/).
-
-The course followed by students is an introduction to programming in javascript aimed at exploring interactive and generative patterns. It is available in french [here](https://github.com/b2renger/p5js-designing-interactive-patterns)
-
-Code can be viewed and downloaded on this [github](https://github.com/AtelierNum/projet_generative-patterns_2019) repo.
-
-
-Cet espace regroupe les projets réalisé par des étudiants en design graphique à l'école de design de Nantes suite à un cours d'introduction à [p5js](https://p5js.org/)
-
-Le cours d'introduction à la programmation en javascript orienté vers la création de motifs interactifs et génératifs est disponible [ici](https://github.com/b2renger/p5js-designing-interactive-patterns)
-
-Le code de ces projets peut-être consulté et téléchargé à partir de ce dépot [github](https://github.com/AtelierNum/projet_generative-patterns_2019)
-
 Cet espace regroupe quelques projets réalisés par des étudiants en motion design à l'école de design Nantes Atlantique, suite à un cours d'introduction à [arduino](https://www.arduino.cc/)
 
 Il a pour but de découvrir cette technologie et de travailler le mouvement physique à travers la construction d'une maquette en se posant les questions de : 
@@ -24,6 +9,16 @@ Il a pour but de découvrir cette technologie et de travailler le mouvement phys
 Inspiré par le projet [Eyes](https://www.lucaszanotto.com/portfolio/eyes) de Lucas Zanotto
 
 Le code de ces projets peut-être consulté et téléchargé à partir de ce dépot [github](https://github.com/AtelierNum/projet_motifs_d_expression_2020)
+
+This repo holds code an documentation for a few projects made by motion design students at l'école de design Nantes Atlantique, following an introduction to [arduino](https://www.arduino.cc/)
+
+
+The goal was to discover arduino and work on tangible movement through the making of an animated model. The goal was to question the principles of mecatronic and animatronic while keeping and sensitive and graphic approach rather than a pure technical one.
+
+Inspired by [Eyes](https://www.lucaszanotto.com/portfolio/eyes) made by Lucas Zanotto
+
+The code and documentation can be found here : [github](https://github.com/AtelierNum/projet_motifs_d_expression_2020)
+
 
 ## Marthe Aubineau et Alexia Simon
 
